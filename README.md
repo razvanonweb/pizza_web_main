@@ -2,4 +2,4 @@
 
 # only main page with few interactions
 
-![](/pizza-website/img/pizza-homepage.jpg)
+![](/pizza-website/img/pizza-homepage.JPG)

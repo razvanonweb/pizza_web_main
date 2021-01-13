@@ -1,5 +1,4 @@
-# pizza_web_main_present
-
-# only main page with few interactions
+# HOME PAGE 
+# Only main page with few interactions
 
 ![](/pizza-website/img/pizza-homepage.JPG)
